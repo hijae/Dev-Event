@@ -116,6 +116,10 @@
   - 분류: `온라인`, `유료`, `FE`
   - 주최: 한입스튜디오
   - 접수: 02. 10(월) ~ 02. 15(토)
+- __[경북 AI 개발자 부트캠프](https://event-us.kr/matdaaiga/event/98319)__
+  - 분류: `오프라인(경북 경산)`, `무료`, `LLM`, `Microsoft Semantic Kernel`
+  - 주최: 맞다AI가
+  - 접수: 02. 03(월) ~ 02. 16(일)
 - __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/305916889/)__
   - 분류: `오프라인(서울 구로)`, `유료`, `클라우드`
   - 주최: AWSKRUG
